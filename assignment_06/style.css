@@ -1,0 +1,116 @@
+body {
+    background-image: linear-gradient(aqua, aquamarine, white, #F4A4A4, #A28089, #A28089);
+}
+
+.header {
+    background-image: linear-gradient(black, aqua, black);
+    border-radius: 7px;
+
+}
+
+b {
+    color: wheat;
+}
+
+button {
+    border-color: aquamarine;
+}
+
+.headericon {
+    border-radius: 7px;
+    width: 25px;
+}
+
+button:hover {
+    opacity: 0.5;
+    background-color: aquamarine;
+}
+
+.card_1:hover {
+    background-color: lightblue
+}
+
+.card_2:hover {
+    background-color: lightblue
+}
+
+.card_3:hover {
+    background-color: lightblue
+}
+
+.card_4:hover {
+    background-color: lightblue
+}
+
+.card_5:hover {
+    background-color: lightblue
+}
+
+.card_6:hover {
+    background-color: lightblue
+}
+
+.card_1 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: pink;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+
+.card_2 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: pink;
+    border-radius: 10px;
+    margin-left: 35%;
+    margin-top: -45%;
+}
+
+.card_3 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: pink;
+    border-radius: 10px;
+    margin-left: 70%;
+    margin-top: -45%;
+}
+
+.card_4 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: pink;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: 55;
+}
+
+.card_5 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: pink;
+    border-radius: 10px;
+    margin-left: 35%;
+    margin-top: -44.8%;
+}
+
+.card_6 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: pink;
+    border-radius: 10px;
+    margin-left: 70%;
+    margin-top: -44.8%;
+}
